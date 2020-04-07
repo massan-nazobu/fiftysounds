@@ -1,0 +1,48 @@
+div.element {
+position: absolute; 
+width: 100%;
+height: 100%;
+}
+
+img.nazo {
+border: #000000 solid 2px;
+width: 50%;
+}
+
+div.nazo {
+text-align: center;
+margin-top: 5%;
+}
+
+body {
+  background-image: url("image/fiftysounds.jpeg");
+  background-size: 30%;
+  background-position: 5%;
+}
+
+div.content {
+    background: #ffffff;
+
+    opacity: 0.9;
+    width: 100%;
+    height: 100%;
+      position: absolute;
+    top: 0;
+    left: 0;
+    }
+    
+div.answer {
+text-align: center;
+}
+
+p.sizi {
+font-size: 25px;
+}
+
+p.clear {
+font-size: 20px;
+}
+
+a.twitter-share-button {
+width: 10%;
+}
